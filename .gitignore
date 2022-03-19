@@ -1,5 +1,6 @@
 # don't save csv data
 *.csv
+Data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
