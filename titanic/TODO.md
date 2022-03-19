@@ -5,3 +5,4 @@
 * Extra feature engineering (e.g. using families)
 * Optimisation of an xgboost model
 * Cross-validation
+* Plotting of our optimisation over time
